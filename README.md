@@ -1,6 +1,6 @@
 # Blank-Rick-Roll
 
-Rick Roll website with no Code
+Rick Roll website that has hidden code.
 
 🔗 [therickroll.com](https://therickroll.com)
 
