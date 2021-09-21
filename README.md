@@ -7,11 +7,11 @@ Rick Roll website that has hidden code.
 ✨ [Watch Video](https://www.youtube.com/watch?v=msdymgkhePo)
 
 
-#Requirements
+ #Requirements
 1.Python or PHP
 2. A operating system of course
 
-#Instructions
+ #Instructions
 
 1. Download the Repository By git or download the zip file from the clone button thing .
 2. (If extracted the zip folder already) go to the folder of the code
