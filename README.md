@@ -8,9 +8,8 @@ Rick Roll website that has hidden code.
 
 
  # Requirements
- 1.Python or PHP
- 
- 2.Windows/Mac/Linux
+ 1. Python or PHP
+ 2. Windows/Mac/Linux
 
  # Instructions
 
