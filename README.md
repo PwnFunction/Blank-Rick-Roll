@@ -16,6 +16,6 @@ Rick Roll website that has hidden code.
 1. Download the Repository By git or download the zip file from the clone button thing .
 2. (If extracted the zip folder already) go to the folder of the code
 3. then open a terminal in there
-4. if you use python install flask by pip install flask if you use dont have php and want to use it then download php from [Here (Windows)](https://windows.php.net/download/) [Here (Linux])(https://www.php.net/downloads)
-5. Or You can use Xampp Will Put Pictures Later
+4. if you use python install flask by pip install flask if you use dont have php and want to use it then download php from [Here (Windows)](https://windows.php.net/download/) [Here (Linux)](https://www.php.net/downloads)
+5. Or You can use [Xampp](https://www.apachefriends.org/index.html)
 6. then after installing do python main.py (Python) or php -s 127.0.0.1:80 (PHP)
