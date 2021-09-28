@@ -26,14 +26,8 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-php-
 
-    - name: Install dependencies
-      run: composer install --prefer-dist --no-progress
-
-    # Add a test script to composer.json, for instance: "test": "vendor/bin/phpunit"
-    
-    - name: Run PHP File
+    - name: Run Php file
       run: php -S 127.0.0.1:80
-      
     # Docs: https://getcomposer.org/doc/articles/scripts.md
 
     # - name: Run test suite
