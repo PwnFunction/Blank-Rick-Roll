@@ -20,3 +20,9 @@ Rick Roll website that has hidden code.
 5. Or You can use [Xampp](https://www.apachefriends.org/index.html)
 6. then after installing do python main.py (Python) or php -S 127.0.0.1:80 (PHP)
 7. In the php thing dont do small s do capital s like this -S
+8. Voila! your done :D 
+
+
+# TO DO List
+1. Add Docker instructions to Readme.MD
+
