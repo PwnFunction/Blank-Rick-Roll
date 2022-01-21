@@ -23,7 +23,7 @@ Rick Roll website that has hidden code.
 8. Voila! your done :D 
 
 # DOCKER instructions
-  Click Here
+  [Click Here](https://github.com/LeontKing2/Blank-Rick-Roll/blob/main/Docker.md)
 
 # TO DO List
 1. Fix Allignment Of The Rick Roll Gif
