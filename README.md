@@ -22,7 +22,9 @@ Rick Roll website that has hidden code.
 7. In the php thing dont do small s do capital s like this -S
 8. Voila! your done :D 
 
+# DOCKER instructions
+  Click Here
 
 # TO DO List
-1. Add Docker instructions to Readme.MD
+1. Fix Allignment Of The Rick Roll Gif
 
