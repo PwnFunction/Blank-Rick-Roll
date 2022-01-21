@@ -1,4 +1,4 @@
- #Docker Instructions for Blank Rick Roll
+ # Docker Instructions for Blank Rick Roll
 1. Install Docker First [Docker Installation instuctions](https://docs.docker.com/get-docker/)
 2. Clone the Blank Rick Roll Repository To Another Folder
 3. Go to that folder in a terminal/cmd/command prompt
