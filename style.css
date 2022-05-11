@@ -15,7 +15,7 @@ body::before, body::after {
   color: #ff4473;
 }
 
-head { 
+body::before {
   display: block;
   background-image: url(https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif);
   height:20rem;
@@ -25,9 +25,6 @@ head {
   border: 5px solid #fff;
   border-radius: 10px;
   border-style: dashed;
-}
-
-body::before {
   display: inline-block;
   padding-top: 3rem;
   content: "Never gonna give you up...";
